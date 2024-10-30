@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\Projetos\\iFood - API\\iFood\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{840F35C4-98C4-446D-AFBA-EBB721E06311}|iFood\\iFood.csproj|z:\\projetos\\ifood - api\\ifood\\ifood\\forms\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840F35C4-98C4-446D-AFBA-EBB721E06311}|iFood\\iFood.csproj|solutionrelative:ifood\\forms\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840F35C4-98C4-446D-AFBA-EBB721E06311}|iFood\\iFood.csproj|Z:\\Projetos\\iFood - API\\iFood\\ifood\\forms\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{840F35C4-98C4-446D-AFBA-EBB721E06311}|iFood\\iFood.csproj|solutionrelative:ifood\\forms\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840F35C4-98C4-446D-AFBA-EBB721E06311}|iFood\\iFood.csproj|Z:\\Projetos\\iFood - API\\iFood\\ifood\\forms\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840F35C4-98C4-446D-AFBA-EBB721E06311}|iFood\\iFood.csproj|solutionrelative:ifood\\forms\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840F35C4-98C4-446D-AFBA-EBB721E06311}|iFood\\iFood.csproj|Z:\\Projetos\\iFood - API\\iFood\\ifood\\forms\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{840F35C4-98C4-446D-AFBA-EBB721E06311}|iFood\\iFood.csproj|solutionrelative:ifood\\forms\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840F35C4-98C4-446D-AFBA-EBB721E06311}|iFood\\iFood.csproj|Z:\\Projetos\\iFood - API\\iFood\\ifood\\forms\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{840F35C4-98C4-446D-AFBA-EBB721E06311}|iFood\\iFood.csproj|solutionrelative:ifood\\forms\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840F35C4-98C4-446D-AFBA-EBB721E06311}|iFood\\iFood.csproj|Z:\\Projetos\\iFood - API\\iFood\\ifood\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{840F35C4-98C4-446D-AFBA-EBB721E06311}|iFood\\iFood.csproj|solutionrelative:ifood\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840F35C4-98C4-446D-AFBA-EBB721E06311}|iFood\\iFood.csproj|Z:\\Projetos\\iFood - API\\iFood\\ifood\\forms\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{840F35C4-98C4-446D-AFBA-EBB721E06311}|iFood\\iFood.csproj|solutionrelative:ifood\\forms\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840F35C4-98C4-446D-AFBA-EBB721E06311}|iFood\\iFood.csproj|Z:\\Projetos\\iFood - API\\iFood\\ifood\\forms\\card\u00E1pio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840F35C4-98C4-446D-AFBA-EBB721E06311}|iFood\\iFood.csproj|solutionrelative:ifood\\forms\\card\u00E1pio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840F35C4-98C4-446D-AFBA-EBB721E06311}|iFood\\iFood.csproj|Z:\\Projetos\\iFood - API\\iFood\\ifood\\forms\\card\u00E1pio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{840F35C4-98C4-446D-AFBA-EBB721E06311}|iFood\\iFood.csproj|solutionrelative:ifood\\forms\\card\u00E1pio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840F35C4-98C4-446D-AFBA-EBB721E06311}|iFood\\iFood.csproj|Z:\\Projetos\\iFood - API\\iFood\\ifood\\forms\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840F35C4-98C4-446D-AFBA-EBB721E06311}|iFood\\iFood.csproj|solutionrelative:ifood\\forms\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840F35C4-98C4-446D-AFBA-EBB721E06311}|iFood\\iFood.csproj|Z:\\Projetos\\iFood - API\\iFood\\ifood\\forms\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{840F35C4-98C4-446D-AFBA-EBB721E06311}|iFood\\iFood.csproj|solutionrelative:ifood\\forms\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840F35C4-98C4-446D-AFBA-EBB721E06311}|iFood\\iFood.csproj|Z:\\Projetos\\iFood - API\\iFood\\ifood\\forms\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{840F35C4-98C4-446D-AFBA-EBB721E06311}|iFood\\iFood.csproj|solutionrelative:ifood\\forms\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840F35C4-98C4-446D-AFBA-EBB721E06311}|iFood\\iFood.csproj|Z:\\Projetos\\iFood - API\\iFood\\ifood\\forms\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840F35C4-98C4-446D-AFBA-EBB721E06311}|iFood\\iFood.csproj|solutionrelative:ifood\\forms\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840F35C4-98C4-446D-AFBA-EBB721E06311}|iFood\\iFood.csproj|Z:\\Projetos\\iFood - API\\iFood\\ifood\\forms\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{840F35C4-98C4-446D-AFBA-EBB721E06311}|iFood\\iFood.csproj|solutionrelative:ifood\\forms\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pagamento.cs",
+              "DocumentMoniker": "Z:\\Projetos\\iFood - API\\iFood\\iFood\\Forms\\Pagamento.cs",
+              "RelativeDocumentMoniker": "iFood\\Forms\\Pagamento.cs",
+              "ToolTip": "Z:\\Projetos\\iFood - API\\iFood\\iFood\\Forms\\Pagamento.cs",
+              "RelativeToolTip": "iFood\\Forms\\Pagamento.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAApwDEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:02:53.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pagamento.cs [Design]",
+              "DocumentMoniker": "Z:\\Projetos\\iFood - API\\iFood\\iFood\\Forms\\Pagamento.cs",
+              "RelativeDocumentMoniker": "iFood\\Forms\\Pagamento.cs",
+              "ToolTip": "Z:\\Projetos\\iFood - API\\iFood\\iFood\\Forms\\Pagamento.cs [Design]",
+              "RelativeToolTip": "iFood\\Forms\\Pagamento.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:02:53.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inicio.cs [Design]",
+              "DocumentMoniker": "Z:\\Projetos\\iFood - API\\iFood\\iFood\\Forms\\Inicio.cs",
+              "RelativeDocumentMoniker": "iFood\\Forms\\Inicio.cs",
+              "ToolTip": "C:\\Users\\fonse\\OneDrive\\\u00C1rea de Trabalho\\Desafio\\Desafio\\iFood\\iFood\\Forms\\Inicio.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:02:53.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delivery.cs",
+              "DocumentMoniker": "Z:\\Projetos\\iFood - API\\iFood\\iFood\\Forms\\Delivery.cs",
+              "RelativeDocumentMoniker": "iFood\\Forms\\Delivery.cs",
+              "ToolTip": "Z:\\Projetos\\iFood - API\\iFood\\iFood\\Forms\\Delivery.cs",
+              "RelativeToolTip": "iFood\\Forms\\Delivery.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAApwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:02:53.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delivery.cs [Design]",
+              "DocumentMoniker": "Z:\\Projetos\\iFood - API\\iFood\\iFood\\Forms\\Delivery.cs",
+              "RelativeDocumentMoniker": "iFood\\Forms\\Delivery.cs",
+              "ToolTip": "Z:\\Projetos\\iFood - API\\iFood\\iFood\\Forms\\Delivery.cs [Design]",
+              "RelativeToolTip": "iFood\\Forms\\Delivery.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:02:53.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "Z:\\Projetos\\iFood - API\\iFood\\iFood\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "iFood\\Forms\\Form1.cs",
+              "ToolTip": "Z:\\Faculdade\\4 semestre\\Pr\u00E1tica de programa\u00E7\u00E3o\\2BIM\\TP\\Desafio\\iFood\\iFood\\Forms\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Faculdade\\4 semestre\\Pr\u00E1tica de programa\u00E7\u00E3o\\2BIM\\TP\\Desafio\\iFood\\iFood\\Forms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T21:02:53.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contato.cs [Design]",
+              "DocumentMoniker": "Z:\\Projetos\\iFood - API\\iFood\\iFood\\Forms\\Contato.cs",
+              "RelativeDocumentMoniker": "iFood\\Forms\\Contato.cs",
+              "ToolTip": "Z:\\Faculdade\\4 semestre\\Pr\u00E1tica de programa\u00E7\u00E3o\\2BIM\\TP\\Desafio\\iFood\\iFood\\Forms\\Contato.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Faculdade\\4 semestre\\Pr\u00E1tica de programa\u00E7\u00E3o\\2BIM\\TP\\Desafio\\iFood\\iFood\\Forms\\Contato.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T21:02:53.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Card\u00E1pio.cs",
+              "DocumentMoniker": "Z:\\Projetos\\iFood - API\\iFood\\iFood\\Forms\\Card\u00E1pio.cs",
+              "RelativeDocumentMoniker": "iFood\\Forms\\Card\u00E1pio.cs",
+              "ToolTip": "Z:\\Projetos\\iFood - API\\iFood\\iFood\\Forms\\Card\u00E1pio.cs",
+              "RelativeToolTip": "iFood\\Forms\\Card\u00E1pio.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAApwKcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T21:02:53.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Card\u00E1pio.cs [Design]",
+              "DocumentMoniker": "Z:\\Projetos\\iFood - API\\iFood\\iFood\\Forms\\Card\u00E1pio.cs",
+              "RelativeDocumentMoniker": "iFood\\Forms\\Card\u00E1pio.cs",
+              "ToolTip": "Z:\\Faculdade\\4 semestre\\Pr\u00E1tica de programa\u00E7\u00E3o\\2BIM\\TP\\Desafio\\iFood\\iFood\\Forms\\Card\u00E1pio.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Faculdade\\4 semestre\\Pr\u00E1tica de programa\u00E7\u00E3o\\2BIM\\TP\\Desafio\\iFood\\iFood\\Forms\\Card\u00E1pio.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T21:02:53.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cadastro.cs",
+              "DocumentMoniker": "Z:\\Projetos\\iFood - API\\iFood\\iFood\\Forms\\Cadastro.cs",
+              "RelativeDocumentMoniker": "iFood\\Forms\\Cadastro.cs",
+              "ToolTip": "Z:\\Projetos\\iFood - API\\iFood\\iFood\\Forms\\Cadastro.cs",
+              "RelativeToolTip": "iFood\\Forms\\Cadastro.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAnwCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T21:02:53.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cadastro.cs [Design]",
+              "DocumentMoniker": "Z:\\Projetos\\iFood - API\\iFood\\iFood\\Forms\\Cadastro.cs",
+              "RelativeDocumentMoniker": "iFood\\Forms\\Cadastro.cs",
+              "ToolTip": "Z:\\Faculdade\\4 semestre\\Pr\u00E1tica de programa\u00E7\u00E3o\\2BIM\\TP\\Desafio\\iFood\\iFood\\Forms\\Cadastro.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Faculdade\\4 semestre\\Pr\u00E1tica de programa\u00E7\u00E3o\\2BIM\\TP\\Desafio\\iFood\\iFood\\Forms\\Cadastro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T21:02:53.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.cs [Design]",
+              "DocumentMoniker": "Z:\\Projetos\\iFood - API\\iFood\\iFood\\Forms\\App.cs",
+              "RelativeDocumentMoniker": "iFood\\Forms\\App.cs",
+              "ToolTip": "Z:\\Faculdade\\4 semestre\\Pr\u00E1tica de programa\u00E7\u00E3o\\2BIM\\TP\\Desafio\\iFood\\iFood\\Forms\\App.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Faculdade\\4 semestre\\Pr\u00E1tica de programa\u00E7\u00E3o\\2BIM\\TP\\Desafio\\iFood\\iFood\\Forms\\App.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T21:02:53.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "Z:\\Projetos\\iFood - API\\iFood\\iFood\\Forms\\Admin.cs",
+              "RelativeDocumentMoniker": "iFood\\Forms\\Admin.cs",
+              "ToolTip": "Z:\\Projetos\\iFood - API\\iFood\\iFood\\Forms\\Admin.cs",
+              "RelativeToolTip": "iFood\\Forms\\Admin.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAApwJEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T21:02:53.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "Z:\\Projetos\\iFood - API\\iFood\\iFood\\Forms\\Admin.cs",
+              "RelativeDocumentMoniker": "iFood\\Forms\\Admin.cs",
+              "ToolTip": "Z:\\Faculdade\\4 semestre\\Pr\u00E1tica de programa\u00E7\u00E3o\\2BIM\\TP\\Desafio\\iFood\\iFood\\Forms\\Admin.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Faculdade\\4 semestre\\Pr\u00E1tica de programa\u00E7\u00E3o\\2BIM\\TP\\Desafio\\iFood\\iFood\\Forms\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-16T21:02:53.695Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

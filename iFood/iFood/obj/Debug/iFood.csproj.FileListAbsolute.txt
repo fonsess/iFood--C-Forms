@@ -1,0 +1,374 @@
+C:\Users\fonse\source\repos\iFood\iFood\bin\Debug\iFood.exe.config
+C:\Users\fonse\source\repos\iFood\iFood\bin\Debug\iFood.exe
+C:\Users\fonse\source\repos\iFood\iFood\bin\Debug\iFood.pdb
+C:\Users\fonse\source\repos\iFood\iFood\obj\Debug\iFood.csproj.AssemblyReference.cache
+C:\Users\fonse\source\repos\iFood\iFood\obj\Debug\iFood.csproj.SuggestedBindingRedirects.cache
+C:\Users\fonse\source\repos\iFood\iFood\obj\Debug\iFood.Properties.Resources.resources
+C:\Users\fonse\source\repos\iFood\iFood\obj\Debug\iFood.csproj.GenerateResource.cache
+C:\Users\fonse\source\repos\iFood\iFood\obj\Debug\iFood.csproj.CoreCompileInputs.cache
+C:\Users\fonse\source\repos\iFood\iFood\obj\Debug\iFood.exe
+C:\Users\fonse\source\repos\iFood\iFood\obj\Debug\iFood.pdb
+C:\Users\fonse\source\repos\iFood\iFood\obj\Debug\iFood.Form1.resources
+C:\Users\fonse\source\repos\iFood\iFood\obj\Debug\iFood.Cadastro.resources
+C:\Users\fonse\source\repos\iFood\iFood\obj\Debug\iFood.csproj.CopyComplete
+C:\Users\fonse\source\repos\iFood\iFood\obj\Debug\iFood.Cardápio.resources
+C:\Users\fonse\source\repos\iFood\iFood\obj\Debug\iFood.App.resources
+C:\Users\fonse\source\repos\iFood\iFood\obj\Debug\iFood.Delivery.resources
+C:\Users\fonse\source\repos\iFood\iFood\obj\Debug\iFood.Pagamento.resources
+C:\Users\fonse\source\repos\iFood\iFood\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\fonse\source\repos\iFood\iFood\obj\Debug\iFood.Contato.resources
+C:\Users\fonse\source\repos\iFood\iFood\obj\Debug\iFood.Inicio.resources
+C:\Users\fonse\source\repos\iFood\iFood\bin\Debug\QRCoder.dll
+C:\Users\fonse\source\repos\iFood\iFood\obj\Debug\FastFoodManagement.View.BoxService.Components.Widget.resources
+C:\Users\fonse\source\repos\iFood\iFood\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\fonse\source\repos\iFood\iFood\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\fonse\source\repos\iFood\iFood\obj\Debug\iFood.csproj.ResolveComReference.cache
+X:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\iFood.exe.config
+X:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\iFood.exe
+X:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\iFood.pdb
+X:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\DocumentFormat.OpenXml.dll
+X:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\FontAwesome.Sharp.dll
+X:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\QRCoder.dll
+X:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\DocumentFormat.OpenXml.xml
+X:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.csproj.AssemblyReference.cache
+X:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.csproj.SuggestedBindingRedirects.cache
+X:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.csproj.ResolveComReference.cache
+X:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.VerificaSenha.resources
+X:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\FastFoodManagement.View.BoxService.Components.Widget.resources
+X:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.Contato.resources
+X:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.Cadastro.resources
+X:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.App.resources
+X:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.Delivery.resources
+X:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.Form1.resources
+X:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.Cardápio.resources
+X:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.Pagamento.resources
+X:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.Inicio.resources
+X:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.Properties.Resources.resources
+X:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.csproj.GenerateResource.cache
+X:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.csproj.CoreCompileInputs.cache
+X:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.csproj.CopyComplete
+X:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.exe
+X:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.pdb
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\iFood.exe.config
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\iFood.exe
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\iFood.pdb
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\DocumentFormat.OpenXml.dll
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\FontAwesome.Sharp.dll
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\QRCoder.dll
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\DocumentFormat.OpenXml.xml
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.csproj.AssemblyReference.cache
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.csproj.ResolveComReference.cache
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.VerificaSenha.resources
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\FastFoodManagement.View.BoxService.Components.Widget.resources
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.Contato.resources
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.Cadastro.resources
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.App.resources
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.Delivery.resources
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.Form1.resources
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.Cardápio.resources
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.Pagamento.resources
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.Inicio.resources
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.Properties.Resources.resources
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.csproj.GenerateResource.cache
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.csproj.CoreCompileInputs.cache
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.csproj.CopyComplete
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.exe
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.pdb
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\obj\Debug\iFood.Admin.resources
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\Correios.Net.dll
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\Correios.Net.pdb
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\Newtonsoft.Json.Bson.dll
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\Newtonsoft.Json.dll
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\System.Buffers.dll
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\System.Memory.dll
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\System.Net.Http.Formatting.dll
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\System.Numerics.Vectors.dll
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\System.Threading.Tasks.Extensions.dll
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\ViaCep.dll
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\Newtonsoft.Json.xml
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\Newtonsoft.Json.Bson.pdb
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\Newtonsoft.Json.Bson.xml
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\System.Buffers.xml
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\System.Memory.xml
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\System.Net.Http.Formatting.xml
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\System.Numerics.Vectors.xml
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Z:\Faculdade\3 semestre\Aplicações para Desktop\Desafio\iFood\iFood\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lucas\Desktop\iFood\iFood\bin\Debug\iFood.exe.config
+C:\Users\lucas\Desktop\iFood\iFood\bin\Debug\iFood.exe
+C:\Users\lucas\Desktop\iFood\iFood\bin\Debug\iFood.pdb
+C:\Users\lucas\Desktop\iFood\iFood\bin\Debug\Correios.Net.dll
+C:\Users\lucas\Desktop\iFood\iFood\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\lucas\Desktop\iFood\iFood\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\lucas\Desktop\iFood\iFood\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\lucas\Desktop\iFood\iFood\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lucas\Desktop\iFood\iFood\bin\Debug\QRCoder.dll
+C:\Users\lucas\Desktop\iFood\iFood\bin\Debug\System.Buffers.dll
+C:\Users\lucas\Desktop\iFood\iFood\bin\Debug\System.Memory.dll
+C:\Users\lucas\Desktop\iFood\iFood\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\lucas\Desktop\iFood\iFood\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lucas\Desktop\iFood\iFood\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lucas\Desktop\iFood\iFood\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lucas\Desktop\iFood\iFood\bin\Debug\ViaCep.dll
+C:\Users\lucas\Desktop\iFood\iFood\bin\Debug\Correios.Net.pdb
+C:\Users\lucas\Desktop\iFood\iFood\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\lucas\Desktop\iFood\iFood\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lucas\Desktop\iFood\iFood\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\lucas\Desktop\iFood\iFood\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\lucas\Desktop\iFood\iFood\bin\Debug\System.Buffers.xml
+C:\Users\lucas\Desktop\iFood\iFood\bin\Debug\System.Memory.xml
+C:\Users\lucas\Desktop\iFood\iFood\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\lucas\Desktop\iFood\iFood\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lucas\Desktop\iFood\iFood\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lucas\Desktop\iFood\iFood\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lucas\Desktop\iFood\iFood\obj\Debug\iFood.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\iFood\iFood\obj\Debug\iFood.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Desktop\iFood\iFood\obj\Debug\iFood.csproj.ResolveComReference.cache
+C:\Users\lucas\Desktop\iFood\iFood\obj\Debug\iFood.Admin.resources
+C:\Users\lucas\Desktop\iFood\iFood\obj\Debug\iFood.VerificaSenha.resources
+C:\Users\lucas\Desktop\iFood\iFood\obj\Debug\FastFoodManagement.View.BoxService.Components.Widget.resources
+C:\Users\lucas\Desktop\iFood\iFood\obj\Debug\iFood.Contato.resources
+C:\Users\lucas\Desktop\iFood\iFood\obj\Debug\iFood.Cadastro.resources
+C:\Users\lucas\Desktop\iFood\iFood\obj\Debug\iFood.App.resources
+C:\Users\lucas\Desktop\iFood\iFood\obj\Debug\iFood.Delivery.resources
+C:\Users\lucas\Desktop\iFood\iFood\obj\Debug\iFood.Form1.resources
+C:\Users\lucas\Desktop\iFood\iFood\obj\Debug\iFood.Cardápio.resources
+C:\Users\lucas\Desktop\iFood\iFood\obj\Debug\iFood.Pagamento.resources
+C:\Users\lucas\Desktop\iFood\iFood\obj\Debug\iFood.Inicio.resources
+C:\Users\lucas\Desktop\iFood\iFood\obj\Debug\iFood.Properties.Resources.resources
+C:\Users\lucas\Desktop\iFood\iFood\obj\Debug\iFood.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\iFood\iFood\obj\Debug\iFood.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\iFood\iFood\obj\Debug\iFood.csproj.CopyComplete
+C:\Users\lucas\Desktop\iFood\iFood\obj\Debug\iFood.exe
+C:\Users\lucas\Desktop\iFood\iFood\obj\Debug\iFood.pdb
+C:\Users\teste1\Desktop\crico\iFood\iFood\bin\Debug\iFood.exe.config
+C:\Users\teste1\Desktop\crico\iFood\iFood\bin\Debug\iFood.exe
+C:\Users\teste1\Desktop\crico\iFood\iFood\bin\Debug\iFood.pdb
+C:\Users\teste1\Desktop\crico\iFood\iFood\bin\Debug\Correios.Net.dll
+C:\Users\teste1\Desktop\crico\iFood\iFood\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\teste1\Desktop\crico\iFood\iFood\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\teste1\Desktop\crico\iFood\iFood\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\teste1\Desktop\crico\iFood\iFood\bin\Debug\Newtonsoft.Json.dll
+C:\Users\teste1\Desktop\crico\iFood\iFood\bin\Debug\QRCoder.dll
+C:\Users\teste1\Desktop\crico\iFood\iFood\bin\Debug\System.Buffers.dll
+C:\Users\teste1\Desktop\crico\iFood\iFood\bin\Debug\System.Memory.dll
+C:\Users\teste1\Desktop\crico\iFood\iFood\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\teste1\Desktop\crico\iFood\iFood\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\teste1\Desktop\crico\iFood\iFood\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\teste1\Desktop\crico\iFood\iFood\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\teste1\Desktop\crico\iFood\iFood\bin\Debug\ViaCep.dll
+C:\Users\teste1\Desktop\crico\iFood\iFood\bin\Debug\Correios.Net.pdb
+C:\Users\teste1\Desktop\crico\iFood\iFood\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\teste1\Desktop\crico\iFood\iFood\bin\Debug\Newtonsoft.Json.xml
+C:\Users\teste1\Desktop\crico\iFood\iFood\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\teste1\Desktop\crico\iFood\iFood\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\teste1\Desktop\crico\iFood\iFood\bin\Debug\System.Buffers.xml
+C:\Users\teste1\Desktop\crico\iFood\iFood\bin\Debug\System.Memory.xml
+C:\Users\teste1\Desktop\crico\iFood\iFood\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\teste1\Desktop\crico\iFood\iFood\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\teste1\Desktop\crico\iFood\iFood\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\teste1\Desktop\crico\iFood\iFood\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\teste1\Desktop\crico\iFood\iFood\obj\Debug\iFood.csproj.AssemblyReference.cache
+C:\Users\teste1\Desktop\crico\iFood\iFood\obj\Debug\iFood.csproj.ResolveComReference.cache
+C:\Users\teste1\Desktop\crico\iFood\iFood\obj\Debug\iFood.Admin.resources
+C:\Users\teste1\Desktop\crico\iFood\iFood\obj\Debug\iFood.VerificaSenha.resources
+C:\Users\teste1\Desktop\crico\iFood\iFood\obj\Debug\FastFoodManagement.View.BoxService.Components.Widget.resources
+C:\Users\teste1\Desktop\crico\iFood\iFood\obj\Debug\iFood.Contato.resources
+C:\Users\teste1\Desktop\crico\iFood\iFood\obj\Debug\iFood.Cadastro.resources
+C:\Users\teste1\Desktop\crico\iFood\iFood\obj\Debug\iFood.App.resources
+C:\Users\teste1\Desktop\crico\iFood\iFood\obj\Debug\iFood.Delivery.resources
+C:\Users\teste1\Desktop\crico\iFood\iFood\obj\Debug\iFood.Form1.resources
+C:\Users\teste1\Desktop\crico\iFood\iFood\obj\Debug\iFood.Cardápio.resources
+C:\Users\teste1\Desktop\crico\iFood\iFood\obj\Debug\iFood.Pagamento.resources
+C:\Users\teste1\Desktop\crico\iFood\iFood\obj\Debug\iFood.Inicio.resources
+C:\Users\teste1\Desktop\crico\iFood\iFood\obj\Debug\iFood.Properties.Resources.resources
+C:\Users\teste1\Desktop\crico\iFood\iFood\obj\Debug\iFood.csproj.GenerateResource.cache
+C:\Users\teste1\Desktop\crico\iFood\iFood\obj\Debug\iFood.csproj.CoreCompileInputs.cache
+C:\Users\teste1\Desktop\crico\iFood\iFood\obj\Debug\iFood.csproj.CopyComplete
+C:\Users\teste1\Desktop\crico\iFood\iFood\obj\Debug\iFood.exe
+C:\Users\teste1\Desktop\crico\iFood\iFood\obj\Debug\iFood.pdb
+C:\Users\fonses\Downloads\xo\iFood\iFood\obj\Debug\iFood.csproj.AssemblyReference.cache
+C:\Users\fonses\Downloads\xo\iFood\iFood\obj\Debug\iFood.csproj.ResolveComReference.cache
+C:\Users\fonses\Downloads\xo\iFood\iFood\obj\Debug\iFood.exe
+C:\Users\fonses\Downloads\xo\iFood\iFood\obj\Debug\iFood.pdb
+C:\Users\fonses\Downloads\xo\iFood\iFood\bin\Debug\iFood.exe.config
+C:\Users\fonses\Downloads\xo\iFood\iFood\bin\Debug\iFood.exe
+C:\Users\fonses\Downloads\xo\iFood\iFood\bin\Debug\iFood.pdb
+C:\Users\fonses\Downloads\xo\iFood\iFood\bin\Debug\Correios.Net.dll
+C:\Users\fonses\Downloads\xo\iFood\iFood\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\fonses\Downloads\xo\iFood\iFood\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\fonses\Downloads\xo\iFood\iFood\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\fonses\Downloads\xo\iFood\iFood\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fonses\Downloads\xo\iFood\iFood\bin\Debug\QRCoder.dll
+C:\Users\fonses\Downloads\xo\iFood\iFood\bin\Debug\System.Buffers.dll
+C:\Users\fonses\Downloads\xo\iFood\iFood\bin\Debug\System.Memory.dll
+C:\Users\fonses\Downloads\xo\iFood\iFood\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\fonses\Downloads\xo\iFood\iFood\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fonses\Downloads\xo\iFood\iFood\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fonses\Downloads\xo\iFood\iFood\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\fonses\Downloads\xo\iFood\iFood\bin\Debug\ViaCep.dll
+C:\Users\fonses\Downloads\xo\iFood\iFood\bin\Debug\Correios.Net.pdb
+C:\Users\fonses\Downloads\xo\iFood\iFood\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\fonses\Downloads\xo\iFood\iFood\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fonses\Downloads\xo\iFood\iFood\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\fonses\Downloads\xo\iFood\iFood\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\fonses\Downloads\xo\iFood\iFood\bin\Debug\System.Buffers.xml
+C:\Users\fonses\Downloads\xo\iFood\iFood\bin\Debug\System.Memory.xml
+C:\Users\fonses\Downloads\xo\iFood\iFood\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\fonses\Downloads\xo\iFood\iFood\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fonses\Downloads\xo\iFood\iFood\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fonses\Downloads\xo\iFood\iFood\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\fonses\Downloads\xo\iFood\iFood\obj\Debug\iFood.Admin.resources
+C:\Users\fonses\Downloads\xo\iFood\iFood\obj\Debug\iFood.VerificaSenha.resources
+C:\Users\fonses\Downloads\xo\iFood\iFood\obj\Debug\FastFoodManagement.View.BoxService.Components.Widget.resources
+C:\Users\fonses\Downloads\xo\iFood\iFood\obj\Debug\iFood.Contato.resources
+C:\Users\fonses\Downloads\xo\iFood\iFood\obj\Debug\iFood.Cadastro.resources
+C:\Users\fonses\Downloads\xo\iFood\iFood\obj\Debug\iFood.App.resources
+C:\Users\fonses\Downloads\xo\iFood\iFood\obj\Debug\iFood.Delivery.resources
+C:\Users\fonses\Downloads\xo\iFood\iFood\obj\Debug\iFood.Form1.resources
+C:\Users\fonses\Downloads\xo\iFood\iFood\obj\Debug\iFood.Cardápio.resources
+C:\Users\fonses\Downloads\xo\iFood\iFood\obj\Debug\iFood.Pagamento.resources
+C:\Users\fonses\Downloads\xo\iFood\iFood\obj\Debug\iFood.Inicio.resources
+C:\Users\fonses\Downloads\xo\iFood\iFood\obj\Debug\iFood.Properties.Resources.resources
+C:\Users\fonses\Downloads\xo\iFood\iFood\obj\Debug\iFood.csproj.GenerateResource.cache
+C:\Users\fonses\Downloads\xo\iFood\iFood\obj\Debug\iFood.csproj.CoreCompileInputs.cache
+C:\Users\fonses\Downloads\xo\iFood\iFood\obj\Debug\iFood.csproj.CopyComplete
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\bin\Debug\iFood.exe.config
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\bin\Debug\iFood.exe
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\bin\Debug\iFood.pdb
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\bin\Debug\Correios.Net.dll
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\bin\Debug\DocumentFormat.OpenXml.dll
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\bin\Debug\FontAwesome.Sharp.dll
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\bin\Debug\Newtonsoft.Json.Bson.dll
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\bin\Debug\Newtonsoft.Json.dll
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\bin\Debug\QRCoder.dll
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\bin\Debug\System.Buffers.dll
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\bin\Debug\System.Memory.dll
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\bin\Debug\System.Net.Http.Formatting.dll
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\bin\Debug\System.Numerics.Vectors.dll
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\bin\Debug\System.Threading.Tasks.Extensions.dll
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\bin\Debug\ViaCep.dll
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\bin\Debug\Correios.Net.pdb
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\bin\Debug\DocumentFormat.OpenXml.xml
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\bin\Debug\Newtonsoft.Json.xml
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\bin\Debug\Newtonsoft.Json.Bson.pdb
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\bin\Debug\Newtonsoft.Json.Bson.xml
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\bin\Debug\System.Buffers.xml
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\bin\Debug\System.Memory.xml
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\bin\Debug\System.Net.Http.Formatting.xml
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\bin\Debug\System.Numerics.Vectors.xml
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\bin\Debug\System.Threading.Tasks.Extensions.xml
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\obj\Debug\iFood.csproj.AssemblyReference.cache
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\obj\Debug\iFood.csproj.ResolveComReference.cache
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\obj\Debug\iFood.Admin.resources
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\obj\Debug\iFood.VerificaSenha.resources
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\obj\Debug\FastFoodManagement.View.BoxService.Components.Widget.resources
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\obj\Debug\iFood.Contato.resources
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\obj\Debug\iFood.Cadastro.resources
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\obj\Debug\iFood.App.resources
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\obj\Debug\iFood.Delivery.resources
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\obj\Debug\iFood.Form1.resources
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\obj\Debug\iFood.Cardápio.resources
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\obj\Debug\iFood.Pagamento.resources
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\obj\Debug\iFood.Inicio.resources
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\obj\Debug\iFood.Properties.Resources.resources
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\obj\Debug\iFood.csproj.GenerateResource.cache
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\obj\Debug\iFood.csproj.CoreCompileInputs.cache
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\obj\Debug\iFood.csproj.CopyComplete
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\obj\Debug\iFood.exe
+Z:\Faculdade\4 semestre\Prática de programação\2BIM\TP\Desafio\iFood\iFood\obj\Debug\iFood.pdb
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\bin\Debug\iFood.exe.config
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\bin\Debug\iFood.exe
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\bin\Debug\iFood.pdb
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\bin\Debug\Correios.Net.dll
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\bin\Debug\QRCoder.dll
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\bin\Debug\System.Buffers.dll
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\bin\Debug\System.Memory.dll
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\bin\Debug\ViaCep.dll
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\bin\Debug\Correios.Net.pdb
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\bin\Debug\System.Buffers.xml
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\bin\Debug\System.Memory.xml
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\obj\Debug\iFood.csproj.AssemblyReference.cache
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\obj\Debug\iFood.csproj.ResolveComReference.cache
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\obj\Debug\iFood.Admin.resources
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\obj\Debug\iFood.VerificaSenha.resources
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\obj\Debug\FastFoodManagement.View.BoxService.Components.Widget.resources
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\obj\Debug\iFood.Contato.resources
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\obj\Debug\iFood.Cadastro.resources
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\obj\Debug\iFood.App.resources
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\obj\Debug\iFood.Delivery.resources
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\obj\Debug\iFood.Form1.resources
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\obj\Debug\iFood.Cardápio.resources
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\obj\Debug\iFood.Pagamento.resources
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\obj\Debug\iFood.Inicio.resources
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\obj\Debug\iFood.Properties.Resources.resources
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\obj\Debug\iFood.csproj.GenerateResource.cache
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\obj\Debug\iFood.csproj.CoreCompileInputs.cache
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\obj\Debug\iFood.csproj.Up2Date
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\obj\Debug\iFood.exe
+C:\Users\fonse\OneDrive\Área de Trabalho\Desafio\Desafio\iFood\iFood\obj\Debug\iFood.pdb
+Z:\Projetos\iFood - API\iFood\iFood\bin\Debug\iFood.exe.config
+Z:\Projetos\iFood - API\iFood\iFood\bin\Debug\iFood.exe
+Z:\Projetos\iFood - API\iFood\iFood\bin\Debug\iFood.pdb
+Z:\Projetos\iFood - API\iFood\iFood\bin\Debug\Correios.Net.dll
+Z:\Projetos\iFood - API\iFood\iFood\bin\Debug\DocumentFormat.OpenXml.dll
+Z:\Projetos\iFood - API\iFood\iFood\bin\Debug\FontAwesome.Sharp.dll
+Z:\Projetos\iFood - API\iFood\iFood\bin\Debug\Newtonsoft.Json.Bson.dll
+Z:\Projetos\iFood - API\iFood\iFood\bin\Debug\Newtonsoft.Json.dll
+Z:\Projetos\iFood - API\iFood\iFood\bin\Debug\QRCoder.dll
+Z:\Projetos\iFood - API\iFood\iFood\bin\Debug\System.Buffers.dll
+Z:\Projetos\iFood - API\iFood\iFood\bin\Debug\System.Memory.dll
+Z:\Projetos\iFood - API\iFood\iFood\bin\Debug\System.Net.Http.Formatting.dll
+Z:\Projetos\iFood - API\iFood\iFood\bin\Debug\System.Numerics.Vectors.dll
+Z:\Projetos\iFood - API\iFood\iFood\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Z:\Projetos\iFood - API\iFood\iFood\bin\Debug\System.Threading.Tasks.Extensions.dll
+Z:\Projetos\iFood - API\iFood\iFood\bin\Debug\ViaCep.dll
+Z:\Projetos\iFood - API\iFood\iFood\bin\Debug\Correios.Net.pdb
+Z:\Projetos\iFood - API\iFood\iFood\bin\Debug\DocumentFormat.OpenXml.xml
+Z:\Projetos\iFood - API\iFood\iFood\bin\Debug\Newtonsoft.Json.xml
+Z:\Projetos\iFood - API\iFood\iFood\bin\Debug\Newtonsoft.Json.Bson.pdb
+Z:\Projetos\iFood - API\iFood\iFood\bin\Debug\Newtonsoft.Json.Bson.xml
+Z:\Projetos\iFood - API\iFood\iFood\bin\Debug\System.Buffers.xml
+Z:\Projetos\iFood - API\iFood\iFood\bin\Debug\System.Memory.xml
+Z:\Projetos\iFood - API\iFood\iFood\bin\Debug\System.Net.Http.Formatting.xml
+Z:\Projetos\iFood - API\iFood\iFood\bin\Debug\System.Numerics.Vectors.xml
+Z:\Projetos\iFood - API\iFood\iFood\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Z:\Projetos\iFood - API\iFood\iFood\bin\Debug\System.Threading.Tasks.Extensions.xml
+Z:\Projetos\iFood - API\iFood\iFood\obj\Debug\iFood.csproj.AssemblyReference.cache
+Z:\Projetos\iFood - API\iFood\iFood\obj\Debug\iFood.csproj.ResolveComReference.cache
+Z:\Projetos\iFood - API\iFood\iFood\obj\Debug\iFood.Admin.resources
+Z:\Projetos\iFood - API\iFood\iFood\obj\Debug\iFood.VerificaSenha.resources
+Z:\Projetos\iFood - API\iFood\iFood\obj\Debug\FastFoodManagement.View.BoxService.Components.Widget.resources
+Z:\Projetos\iFood - API\iFood\iFood\obj\Debug\iFood.Contato.resources
+Z:\Projetos\iFood - API\iFood\iFood\obj\Debug\iFood.Cadastro.resources
+Z:\Projetos\iFood - API\iFood\iFood\obj\Debug\iFood.App.resources
+Z:\Projetos\iFood - API\iFood\iFood\obj\Debug\iFood.Delivery.resources
+Z:\Projetos\iFood - API\iFood\iFood\obj\Debug\iFood.Form1.resources
+Z:\Projetos\iFood - API\iFood\iFood\obj\Debug\iFood.Cardápio.resources
+Z:\Projetos\iFood - API\iFood\iFood\obj\Debug\iFood.Pagamento.resources
+Z:\Projetos\iFood - API\iFood\iFood\obj\Debug\iFood.Inicio.resources
+Z:\Projetos\iFood - API\iFood\iFood\obj\Debug\iFood.Properties.Resources.resources
+Z:\Projetos\iFood - API\iFood\iFood\obj\Debug\iFood.csproj.GenerateResource.cache
+Z:\Projetos\iFood - API\iFood\iFood\obj\Debug\iFood.csproj.CoreCompileInputs.cache
+Z:\Projetos\iFood - API\iFood\iFood\obj\Debug\iFood.csproj.Up2Date
+Z:\Projetos\iFood - API\iFood\iFood\obj\Debug\iFood.exe
+Z:\Projetos\iFood - API\iFood\iFood\obj\Debug\iFood.pdb
